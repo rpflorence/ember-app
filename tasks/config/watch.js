@@ -15,7 +15,7 @@ module.exports = {
   },
   bower: {
     files: ['bower.json'],
-    tasks: ['bower']
+    tasks: ['bower', 'build']
   }
 };
 
